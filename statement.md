@@ -57,4 +57,3 @@ Easy-to-use menu with numbered options - just type 1-7 to navigate.
 
 ---
 
-**Simple. Local. Effective.**
